@@ -1,0 +1,125 @@
+.car1{
+  width: 150px;
+  height: 50px;
+  border:2px solid #3333ff;
+  border-radius: 10px;
+  background-color: #e6e6ff;
+  
+  
+}
+
+.car1 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  position: relative;
+
+}
+
+
+
+.car2{
+  width: 150px;
+  height: 50px;
+  border:2px solid #3333ff ;
+  border-radius: 10px;
+  background-color: #e6e6ff;
+}
+
+.car2 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  position: relative;
+  margin-top: -57px;
+  left: 1200px;
+
+
+
+  
+}
+
+
+  
+.car3{
+  width: 150px;
+  height: 50px;
+  border:2px solid #3333ff;
+  border-radius: 10px;
+  background-color: #e6e6ff;
+  
+  
+}
+
+.car3 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+	position: relative;
+  top: 500px;
+	left: 0;
+  
+}
+
+.car4{
+  width: 150px;
+  height: 50px;
+  border:2px solid #3333ff;
+  border-radius: 10px;
+  background-color: #e6e6ff;
+  
+  
+}
+
+.car4 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  position: relative;
+  top: 447px;
+	left: 1200px;
+
+}
+
+
+.menu{
+  width: 150px;
+  height: 50px;
+  border:2px solid #3333ff;
+  border-radius: 10px;
+  background-color: #e6e6ff;
+  
+  
+}
+
+.menu {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  position: relative;
+  margin-top: -160px;
+  left: 600px;
+}
+
+div:hover{
+  background-color:#8080ff;
+  color:#ffff;
+
+}
+
+#link{
+  text-decoration: none;
+}
+
+#link:visited{
+  color:green;
+}
+
+
+
+
